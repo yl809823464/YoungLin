@@ -1,7 +1,4 @@
-/* DD Full Screen Slider
-* Created: May 20th, 2015 by DynamicDrive.com
-* Visit http://www.dynamicdrive.com/ for full source code
-*/
+
 
 var ddfullscreenslider = (function($){
 
